@@ -27,3 +27,6 @@ Place: Singapore <br />
 Name: [Manas Yadav](https://github.com/xMaNaSx) <br/>
 Place: India <br/>
 About: Student <br/>
+
+Name: [KARTIK GARG](https://github.com/05kartikgarg)<br/>
+Place: India<br/>
